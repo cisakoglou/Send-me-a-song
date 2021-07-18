@@ -1,5 +1,15 @@
 1. download file in json format (manually)
+  instructions:
+  |
 
 
---future editions---
+--todo---
+[] where to upload the app
+[] username of user&friend - dynamic creation of pathways
+[x] find all youtube links
+[] loop through all json files of messages
+[] create youtube playlist from links.txt (connect with api)
+
+--later---
+[] find links depending who is the sender or the recipient
 [] automate file download
